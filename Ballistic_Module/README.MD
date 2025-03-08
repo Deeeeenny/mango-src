@@ -1,0 +1,1 @@
+``vcpkg.exe install cryptopp``

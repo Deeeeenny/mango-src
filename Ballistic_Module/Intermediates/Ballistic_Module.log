@@ -1,0 +1,269 @@
+﻿  lapi.cpp
+  laux.cpp
+  lbaselib.cpp
+  lbitlib.cpp
+  lbuffer.cpp
+  lbuflib.cpp
+  lbuiltins.cpp
+  lcorolib.cpp
+  ldblib.cpp
+  ldebug.cpp
+  ldo.cpp
+  lfunc.cpp
+  lgc.cpp
+  lgcdebug.cpp
+  linit.cpp
+  lmathlib.cpp
+  lmem.cpp
+  lnumprint.cpp
+  lobject.cpp
+  loslib.cpp
+  Generating Code...
+  Compiling...
+  lperf.cpp
+  lstate.cpp
+  lstring.cpp
+  lstrlib.cpp
+  ltable.cpp
+  ltablib.cpp
+  ltm.cpp
+  ludata.cpp
+  lutf8lib.cpp
+  lvmexecute.cpp
+  lvmload.cpp
+  lvmutils.cpp
+  Cache.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Cache\Cache.cpp(7,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Cache\Cache.cpp(31,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Cache\Cache.cpp(56,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Cache\Cache.cpp(87,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Cache\Cache.cpp(115,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+  Closure.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(120,40): warning C4099: 'RBX::Reflection::Descriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Environment/Closure/Closure.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(114,16):
+      see declaration of 'RBX::Reflection::Descriptor'
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(148,36): warning C4099: 'RBX::Reflection::ClassDescriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Environment/Closure/Closure.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(113,16):
+      see declaration of 'RBX::Reflection::ClassDescriptor'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9): warning C4005: '_WINSOCKAPI_': macro redefinition
+  (compiling source file 'Source/Environment/Closure/Closure.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9):
+      '_WINSOCKAPI_' previously declared on the command line
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Closure\Closure.cpp(10,15): warning C4244: 'initializing': conversion from '_Ty2' to 'int', possible loss of data
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Closure\Closure.cpp(10,15): warning C4244:         with
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Closure\Closure.cpp(10,15): warning C4244:         [
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Closure\Closure.cpp(10,15): warning C4244:             _Ty2=__int64
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Closure\Closure.cpp(10,15): warning C4244:         ]
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Closure\Closure.cpp(274,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+  Crypt.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Crypt\Crypt.cpp(267,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Crypt\Crypt.cpp(314,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Crypt\Crypt.cpp(343,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Crypt\Crypt.cpp(390,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Crypt\Crypt.cpp(419,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Crypt\Crypt.cpp(429,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Crypt\Crypt.cpp(475,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Crypt\Crypt.cpp(502,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Crypt\Crypt.cpp(544,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Crypt\Crypt.cpp(568,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Crypt\Crypt.cpp(579,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Crypt\Crypt.cpp(590,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\algorithm(3741,24): warning C4242: '=': conversion from 'int' to 'char', possible loss of data
+  (compiling source file 'Source/Environment/Crypt/Crypt.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\algorithm(3741,24):
+      the template instantiation context (the oldest one first) is
+          C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Crypt\Crypt.cpp(273,7):
+          see reference to function template instantiation '_OutIt std::transform<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,int(__cdecl *)(int)>(const _InIt,const _InIt,_OutIt,_Fn)' being compiled
+          with
+          [
+              _OutIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Elem=char,
+              _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Fn=int (__cdecl *)(int)
+          ]
+  
+  Environment.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(120,40): warning C4099: 'RBX::Reflection::Descriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Environment/Environment.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(114,16):
+      see declaration of 'RBX::Reflection::Descriptor'
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(148,36): warning C4099: 'RBX::Reflection::ClassDescriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Environment/Environment.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(113,16):
+      see declaration of 'RBX::Reflection::ClassDescriptor'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9): warning C4005: '_WINSOCKAPI_': macro redefinition
+  (compiling source file 'Source/Environment/Environment.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9):
+      '_WINSOCKAPI_' previously declared on the command line
+  
+  FileSystem.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(120,40): warning C4099: 'RBX::Reflection::Descriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Environment/FileSystem/FileSystem.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(114,16):
+      see declaration of 'RBX::Reflection::Descriptor'
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(148,36): warning C4099: 'RBX::Reflection::ClassDescriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Environment/FileSystem/FileSystem.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(113,16):
+      see declaration of 'RBX::Reflection::ClassDescriptor'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9): warning C4005: '_WINSOCKAPI_': macro redefinition
+  (compiling source file 'Source/Environment/FileSystem/FileSystem.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9):
+      '_WINSOCKAPI_' previously declared on the command line
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\FileSystem\FileSystem.cpp(48,5): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+  Http.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(120,40): warning C4099: 'RBX::Reflection::Descriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Environment/Http/Http.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(114,16):
+      see declaration of 'RBX::Reflection::Descriptor'
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(148,36): warning C4099: 'RBX::Reflection::ClassDescriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Environment/Http/Http.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(113,16):
+      see declaration of 'RBX::Reflection::ClassDescriptor'
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Http\Http.cpp(81,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Http\Http.cpp(121,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+  Metatable.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Metatable\Metatable.cpp(7,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Metatable\Metatable.cpp(24,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Metatable\Metatable.cpp(64,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+  Script.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(120,40): warning C4099: 'RBX::Reflection::Descriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Environment/Script/Script.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(114,16):
+      see declaration of 'RBX::Reflection::Descriptor'
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(148,36): warning C4099: 'RBX::Reflection::ClassDescriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Environment/Script/Script.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(113,16):
+      see declaration of 'RBX::Reflection::ClassDescriptor'
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Script\Script.cpp(53,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Script\Script.cpp(56,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Script\Script.cpp(62,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Script\Script.cpp(69,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Script\Script.cpp(78,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Script\Script.cpp(86,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Script\Script.cpp(100,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Script\Script.cpp(181,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Script\Script.cpp(208,45): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Script\Script.cpp(226,2): warning C4003: not enough arguments for function-like macro invocation 'luaL_stackcheck'
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\Script\Script.cpp(259,46): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\FileSystem\FileSystem.cpp(122,1): warning C4715: '`AppendFile'::`2'::<lambda_1>::operator()': not all control paths return a value
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\Environment\FileSystem\FileSystem.cpp(37,1): warning C4715: '`ReadFile'::`2'::<lambda_1>::operator()': not all control paths return a value
+  Compiling...
+  Websocket.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9): warning C4005: '_WINSOCKAPI_': macro redefinition
+  (compiling source file 'Source/Environment/Websocket/Websocket.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9):
+      '_WINSOCKAPI_' previously declared on the command line
+  
+  Execution.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(120,40): warning C4099: 'RBX::Reflection::Descriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Execution/Execution.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(114,16):
+      see declaration of 'RBX::Reflection::Descriptor'
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(148,36): warning C4099: 'RBX::Reflection::ClassDescriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Execution/Execution.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(113,16):
+      see declaration of 'RBX::Reflection::ClassDescriptor'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9): warning C4005: '_WINSOCKAPI_': macro redefinition
+  (compiling source file 'Source/Execution/Execution.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9):
+      '_WINSOCKAPI_' previously declared on the command line
+  
+  Communication.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9): warning C4005: '_WINSOCKAPI_': macro redefinition
+  (compiling source file 'Source/Miscellaneous/Communication/Communication.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9):
+      '_WINSOCKAPI_' previously declared on the command line
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(120,40): warning C4099: 'RBX::Reflection::Descriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Miscellaneous/Communication/Communication.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(114,16):
+      see declaration of 'RBX::Reflection::Descriptor'
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(148,36): warning C4099: 'RBX::Reflection::ClassDescriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Miscellaneous/Communication/Communication.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(113,16):
+      see declaration of 'RBX::Reflection::ClassDescriptor'
+  
+  EntryPoint.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(120,40): warning C4099: 'RBX::Reflection::Descriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Miscellaneous/EntryPoint/EntryPoint.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(114,16):
+      see declaration of 'RBX::Reflection::Descriptor'
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(148,36): warning C4099: 'RBX::Reflection::ClassDescriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Miscellaneous/EntryPoint/EntryPoint.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(113,16):
+      see declaration of 'RBX::Reflection::ClassDescriptor'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9): warning C4005: '_WINSOCKAPI_': macro redefinition
+  (compiling source file 'Source/Miscellaneous/EntryPoint/EntryPoint.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9):
+      '_WINSOCKAPI_' previously declared on the command line
+  
+  Scheduler.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(120,40): warning C4099: 'RBX::Reflection::Descriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Miscellaneous/Scheduler/Scheduler.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(114,16):
+      see declaration of 'RBX::Reflection::Descriptor'
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(148,36): warning C4099: 'RBX::Reflection::ClassDescriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Miscellaneous/Scheduler/Scheduler.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(113,16):
+      see declaration of 'RBX::Reflection::ClassDescriptor'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9): warning C4005: '_WINSOCKAPI_': macro redefinition
+  (compiling source file 'Source/Miscellaneous/Scheduler/Scheduler.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9):
+      '_WINSOCKAPI_' previously declared on the command line
+  
+  TeleportHandler.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(120,40): warning C4099: 'RBX::Reflection::Descriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Miscellaneous/TeleportHandler/TeleportHandler.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(114,16):
+      see declaration of 'RBX::Reflection::Descriptor'
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(148,36): warning C4099: 'RBX::Reflection::ClassDescriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/Miscellaneous/TeleportHandler/TeleportHandler.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(113,16):
+      see declaration of 'RBX::Reflection::ClassDescriptor'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9): warning C4005: '_WINSOCKAPI_': macro redefinition
+  (compiling source file 'Source/Miscellaneous/TeleportHandler/TeleportHandler.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(17,9):
+      '_WINSOCKAPI_' previously declared on the command line
+  
+  IdentityManager.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\IdentityManager\IdentityManager.cpp(7,9): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  RBX.cpp
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(120,40): warning C4099: 'RBX::Reflection::Descriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/RBX/RBX.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(114,16):
+      see declaration of 'RBX::Reflection::Descriptor'
+  
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(148,36): warning C4099: 'RBX::Reflection::ClassDescriptor': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Source/RBX/RBX.cpp')
+      C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\RBX.hpp(113,16):
+      see declaration of 'RBX::Reflection::ClassDescriptor'
+  
+  TaskScheduler.cpp
+  Yielder.cpp
+  Generating Code...
+C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Ballistic_Module\Source\RBX\TaskScheduler\TaskScheduler.cpp(23,1): warning C4715: 'RBX::CTaskScheduler::GetJobByName': not all control paths return a value
+  Ballistic_Module.vcxproj -> C:\Users\lamec\Downloads\Ballistic-master\Ballistic-master\Build\Ballistic_Module.dll

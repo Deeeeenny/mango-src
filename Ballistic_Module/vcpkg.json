@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "dependencies": [
+    {
+      "name": "cryptopp",
+      "platform": "(windows & x64)"
+    }
+  ],
+  "builtin-baseline": "efb1e7436979a30c4d3e5ab2375fd8e2e461d541"
+}
